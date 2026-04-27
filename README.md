@@ -7,6 +7,7 @@ This is the repository for the LinkedIn Learning course `Build AI Agents and Cha
 
 <p>Conversational chatbots are growing in popularity, and nearly every product or service supports one today. Agentic AI provides capabilities that can provide chatbots with higher levels of autonomy and value. In this course, instructor Kumaran Ponnambalam helps you to apply agentic AI to build sophisticated chatbots that can provide the next generation of self-service. Kumaran takes you through the step-by-step process of building a chatbot with agentic capabilities using LangChain and LangGraph, and discusses best practices for building agentic chatbots.</p>
 
+
 <p>This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out “Setting up GitHub Codespaces" with this course to learn how to get started.</p>
 
 
